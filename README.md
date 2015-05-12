@@ -1,2 +1,4 @@
-This is a null readme file.
-# datasciencecoursera
+## datasciencecoursera
+* line 1
+* line 2
+* line 3
